@@ -1,0 +1,27 @@
+body {
+  background-color: lightsteelblue;
+}
+.heading {
+  color: rgba(0, 0, 0, 0.705);
+  text-decoration: underline;
+}
+.aboutme {
+  color: rgba(0, 0, 255, 0.705);
+  font-size: 25px;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+.img {
+  width: 150px;
+}
+.bio {
+  border: 1px solid black;
+  padding: 10px;
+  background-color: white;
+}
+.experience {
+  border: 2px dotted black;
+}
+form {
+  margin-bottom: 80px;
+}

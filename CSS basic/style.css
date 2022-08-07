@@ -1,0 +1,47 @@
+p {
+  color: aqua;
+}
+h3 {
+  color: blanchedalmond;
+}
+h1 {
+  color: blue;
+}
+.garima {
+  background-color: grey;
+}
+#devices {
+  font-size: medium;
+}
+ul.device {
+  color: brown;
+}
+.wrapper {
+  font-size: 1em;
+  width: 500px;
+  background-color: indigo;
+}
+.px {
+  background-color: red;
+  width: 200px;
+  padding: 10px;
+  height: 10px;
+}
+.em {
+  width: 50vw;
+  background-color: green;
+}
+.percentage {
+  width: 20%;
+  background-color: hotpink;
+}
+.title {
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-shadow: 2px 2px 2px red;
+  border-bottom: 2px solid red;
+  border-top: 3px solid green;
+  border-left: 6px solid yellow;
+  padding: 20px;
+  mmargin: 200px;
+}

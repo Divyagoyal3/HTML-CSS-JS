@@ -1,0 +1,33 @@
+.block {
+  width: 500px;
+  border-radius: 50%;
+  height: 400px;
+}
+.space {
+  padding-right: 560px;
+}
+
+.roundblock {
+  border-top-right-radius: 50%;
+  border-top-left-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
+.roundblock1 {
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
+.roundblock2 {
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
+.roundblock3 {
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  width: 250px;
+  height: 250px;
+}

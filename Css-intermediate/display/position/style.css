@@ -1,0 +1,28 @@
+/* div p {
+  border: 3px solid red;
+  width: 150px;
+  position: absolute;
+  padding: 20px;
+  bottom: 0;
+  right: 0;
+} */
+/* .parent {
+  border: 2px solid pink;
+  height: 400px;
+  width: 400px;
+  position: relative;
+}
+.child {
+  border: 3px dotted black;
+  width: 120px;
+  position: absolute;
+  right: 0;
+  bottom: 0; */
+
+.sticky {
+  background-color: aqua;
+  color: black;
+  padding: 5px;
+  position: sticky;
+  top: 0;
+}

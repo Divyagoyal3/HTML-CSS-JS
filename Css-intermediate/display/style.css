@@ -1,0 +1,19 @@
+/* h1 {
+  background-color: aqua;
+  width: 200px;
+  height: 300px;
+}
+div {
+  background-color: pink;
+  padding: 10px;
+  width: 300px;
+}
+.disk {
+  background-color: burlywood;
+} */
+span {
+  background-color: aquamarine;
+  width: 200px;
+  height: 150px;
+  display: inline-block;
+}
