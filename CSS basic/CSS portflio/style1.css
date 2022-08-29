@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: aqua;
+  width: 150px;
+  background-color: brown;
+  height: 150px;
+}
+span {
+  background-color: greenyellow;
+  color: black;
+  width: 120px;
+  height: 100px;
+}
+
+div {
+  background-color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: white;
+  border-top: 10px solid salmon;
+  border-left: 10px solid darkcyan;
+  border-bottom: 10px solid salmon;
+  border-right: 10px solid darkcyan;
+}
