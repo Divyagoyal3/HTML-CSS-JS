@@ -13,6 +13,8 @@ span {
   color: black;
   width: 120px;
   height: 100px;
+  margin-left: 10px;
+  margin-bottom: 20px;
 }
 
 div {
@@ -24,4 +26,6 @@ div {
   border-left: 10px solid darkcyan;
   border-bottom: 10px solid salmon;
   border-right: 10px solid darkcyan;
+  padding: 10px 10px 10px 10px;
 }
+/* */

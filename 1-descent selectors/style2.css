@@ -1,0 +1,20 @@
+div p {
+  color: aquamarine;
+}
+
+div > p {
+  color: blue;
+}
+
+div + p {
+  color: red;
+}
+
+div ~ h4 {
+  color: brown;
+}
+
+input:required {
+  background-color: gray;
+  color: white;
+}

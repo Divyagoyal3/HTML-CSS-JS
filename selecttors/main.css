@@ -1,0 +1,38 @@
+h2 {
+  color: blueviolet;
+}
+
+p {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+/*div {
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
+*/
+/* class selector*/
+
+.title {
+  color: red;
+}
+.desc {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+.descripition {
+  color: blue;
+}
+
+/* id slector*/
+#title {
+  color: red;
+}
+#Details {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
