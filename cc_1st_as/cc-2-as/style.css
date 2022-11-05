@@ -1,0 +1,82 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: cursive;
+  background-color: #cddcdc;
+  background-image: linear-gradient(-225deg, #e3fdf5 0%, #ffe6fa 100%);
+}
+
+header {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  border-radius: 3px solid aqua;
+  background-color: rgb(204, 230, 223);
+  color: darkslateblue;
+}
+
+.inline1 {
+  margin-top: 25px;
+  display: flex;
+  position: relative;
+  justify-content: space-evenly;
+  color: darkslateblue;
+  font-size: 20px;
+  border-radius: 3px solid aqua;
+  background-color: rgb(204, 230, 223);
+}
+.inline2 {
+  margin-top: 90px;
+  display: flex;
+  position: relative;
+  justify-content: space-evenly;
+  color: darkslateblue;
+  font-size: 20px;
+  border-radius: 3px solid aqua;
+  background-color: rgb(204, 230, 223);
+}
+/* Full-width inputs */
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+.button1 {
+  background-color: #04aa6d;
+  color: white;
+  padding: 14px 1px;
+  margin: 8px 0;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  width: 100%;
+}
+
+/* Add padding to containers */
+.container {
+  padding: 14px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+/*page -2 avatar image*/
+.avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  border-radius: 50%;
+}
+.align1 {
+  text-align: justify;
+  margin-left: 250px;
+  margin-right: 250px;
+}
